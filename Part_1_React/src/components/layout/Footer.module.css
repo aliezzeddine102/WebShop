@@ -1,0 +1,15 @@
+.list{
+    list-style: none;
+    display: flex;
+   justify-content: center;
+}
+
+.list li{
+    font-size: 1.5em;
+    margin-right: 0.5em;
+    cursor: pointer;
+}
+
+.list li:hover{
+    color: red;
+}

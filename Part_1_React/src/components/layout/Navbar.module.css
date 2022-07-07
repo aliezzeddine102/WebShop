@@ -1,0 +1,26 @@
+.navbar{
+   display: flex; 
+   justify-content: space-between;
+   background-color: #fff;
+  
+   
+   
+ 
+}
+
+.navbar ul{
+    list-style: none;
+    display: flex;
+}
+
+.navbar ul a{
+    color: black;
+    text-decoration: none;
+    margin-right: 1em;
+}
+.navbar h3{
+    color: red;
+}
+.navbar a:hover{
+    color: red;
+}

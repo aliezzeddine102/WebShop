@@ -1,0 +1,11 @@
+
+.secao{
+  
+    height: 50%;
+    background-image: url(../../imagens/pexels-melvin-buezo-2529148.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 60%;
+    width: 100%;
+}
